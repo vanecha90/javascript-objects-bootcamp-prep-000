@@ -1,5 +1,5 @@
 var music={playlist:""}
 
-function playlist(){
+function playlist(Object, value, key){
   
 }
