@@ -3,4 +3,6 @@ var playlist={
   coolest:"roll"
 }
 
-function 
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
