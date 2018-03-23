@@ -1,3 +1,1 @@
-function playlist(Object, value, key){
-  
-}
+var m= Object({plqylist:""})
