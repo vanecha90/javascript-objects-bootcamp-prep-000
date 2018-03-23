@@ -1,1 +1,4 @@
-var m= Object({plqylist:""})
+var playlist={
+  type:"rick",
+  coolest:"roll"
+}
